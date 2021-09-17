@@ -82,6 +82,10 @@ main {
 
 aside {
     width: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    text-align: left;
 }
 
 aside img {
