@@ -7,7 +7,7 @@ The motivation of the project was to create a portfolio that will showcase our w
 
 ## Deloyed Site Screenshot
 
-![image]()
+![image](https://github.com/tcrear/my-portfolio/blob/main/assets/images/site-screenshot.JPG)
 
 
 ## Link to Deployed Site
